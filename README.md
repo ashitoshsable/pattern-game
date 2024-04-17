@@ -48,7 +48,3 @@ All you need to embark on this journey is a modern web browser.
 ## Contributing
 
 🌈 We welcome contributions from fellow adventurers! Share your insights and enhancements by opening issues or pull requests.
-
-## License
-
-📝 This magical journey is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
